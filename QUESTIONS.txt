@@ -1,0 +1,79 @@
+Questions for the Questionnaire Quiz
+------------------------------------------------
+Authors: Anthony Hu
+         Michael Zhao
+
+Last Commit: 25/06/22 - 4:30PM
+------------------------------------------------
+
+Q: What does SCOTUS mean?
+A: Supreme Court of the United States
+
+Q: Who painted the Mona Lisa?
+A: Leonardo Da Vinci
+
+Q: Tony Blair is from which party:
+A: Labour Party of UK
+
+Q: Vladivostok is a city in which country?
+A: Russia
+
+Q: What does LG stand for:
+A: Lucky Goldstar
+
+Q: Google was founded by:
+A: Larry Page and Sergey Brin
+
+Q: George W Bush was where when 9/11 happened?
+A: School
+
+Q: What was the first thing to be cloned?
+A: Sheep
+
+Q: Who replaced Jon Stewart on the Daily Show?
+A: Trevor Noah
+
+Q: What is the full name of FDR?
+A: Franklin Delano Roosevelt
+
+Q: Edinburgh of the Seven Seas is a town in what British Overseas Territory?
+A: Saint Helena, Ascension Island and Tristan de Cunha
+
+Q: What year did Queen Elizabeth have her coronation?
+A: 1953
+
+Q: Who developed the game 'Valorant'?
+A: Riot Games
+
+Q: What is the English football syndicate known as?
+A: The Premier League
+
+Q: Which company did Edward Snowden get contracted to?
+A: National Security Agency
+
+Q: Who is the prime minister of India as of 2022?
+A: Nahendra Modi
+
+Q: Which company developed TikTok?
+A: Bytedance
+
+Q: What TV show was centered around Donald Trump?
+A: The Apprentice
+
+Q: 1 + 1 =
+A: 2
+
+Q: Is Toyota a car company?
+A: Yes
+
+Q: Where is Rocket Lab's Headquarters Located?
+A: United States of America
+
+Q: What is the element symbol for Potassium?
+A: K
+
+Q: What is the name of the President of Ukraine?
+A: Volodymyr Zelenskyy
+
+Q: Kim Kardashian ripped which famous person's dress?
+A: Marilyn Monroe
